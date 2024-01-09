@@ -17,3 +17,5 @@ Proyek ini dibangun dengan menggunakan HTML, CSS, dan PHP
 5. jalankan xampp
 6. buka browser kemudian ketikkan "localhost/perpustakaan"
 7. Selesai.
+
+# https://youtu.be/Dt19Vw83lNI?si=d0eDK583cIF9kD73
