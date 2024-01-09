@@ -9,7 +9,7 @@ Proyek ini dibangun dengan menggunakan HTML, CSS, dan PHP
 - Rekomendasi Berdasarkan Preferensi 🌟
   #HTM #CSS #MYSQLL #PHP #perpustakaan
 
-📖 Langkah Installasi
+#📖 Langkah Installasi
 1. Download file perpustakaan pada repository
 2. pindahkan file ke dalam folder C:\xampp\htdocs
 3. extract file di dalam folder htdocs
